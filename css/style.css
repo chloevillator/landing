@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Lora&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fugaz+One&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Fugaz One', cursive;
+	font-size: 40px;
+}
+
+
+h2 {
+	font-family: 'Cinzel', serif;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 20PX;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Lora', serif;
+
+}
